@@ -1,16 +1,25 @@
-# kfupm_community_app
+# Kfupm Community App (KCA)
+  ![Dart](https://img.shields.io/badge/Dart-5181b8?style=flat&logo=dart&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-white?style=flat&logo=flutter&logoColor=blue)
+  ![Firebase](https://img.shields.io/badge/Firebase-yellow?style=flat&logo=firebase&logoColor=red)
+  
+  Senior Design Project: ICS 411/212
 
-A new Flutter project.
+## Description
+<img src="readme_res/Snap1.png" width="400"/><img src="readme_res/Snap2.png" width="400"/>
 
-## Getting Started
+## Screenshots Of The Application
+<details>
+  <summary>Click to expand!</summary>
+  <br/>
+  
+<img src="readme_res/Snap1.png" width="400"/><img src="readme_res/Snap2.png" width="400"/>
 
-This project is a starting point for a Flutter application.
+<img src="readme_res/Snap3.png" width="400"/> <img src="readme_res/Snap4.png" width="400"/> 
 
-A few resources to get you started if this is your first Flutter project:
+<img src="readme_res/Snap5.png" width="400"/><img src="readme_res/Snap6.png" width="400"/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="readme_res/Snap7.png" width="400"/> <img src="readme_res/Snap8.png" width="400"/> 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="readme_res/Snap9.png" width="400"/> <img src="readme_res/Snap10.png" width="400"/> 
+</details>
