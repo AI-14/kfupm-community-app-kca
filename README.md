@@ -6,20 +6,24 @@
   Senior Design Project: ICS 411/212
 
 ## Description
-<img src="readme_res/Snap1.png" width="400"/><img src="readme_res/Snap2.png" width="400"/>
+<img src="screenshots/KCASDPPoster.png" width="400"/>
 
 ## Screenshots Of The Application
 <details>
   <summary>Click to expand!</summary>
   <br/>
   
-<img src="readme_res/Snap1.png" width="400"/><img src="readme_res/Snap2.png" width="400"/>
+<img src="screenshots/WelcomeScreen.png" width="200" height="400"/> <img src="screenshots/SignupScreen.jpg" width="200" height="400"/> <img src="screenshots/LoginScreen.jpg" width="200" height="400"/> 
 
-<img src="readme_res/Snap3.png" width="400"/> <img src="readme_res/Snap4.png" width="400"/> 
+<img src="screenshots/FeedsScreen.png" width="200" height="400"/> <img src="screenshots/AddPostScreen.jpg" width="200" height="400"/>
 
-<img src="readme_res/Snap5.png" width="400"/><img src="readme_res/Snap6.png" width="400"/>
+<img src="screenshots/BuySellScreen.png" width="200" height="400"/> <img src="screenshots/SellProductScreen.jpg" width="200" height="400"/>
 
-<img src="readme_res/Snap7.png" width="400"/> <img src="readme_res/Snap8.png" width="400"/> 
+<img src="screenshots/MessagesScreen.png" width="200" height="400"/> <img src="screenshots/ChatScreen.png" width="200" height="400"/>
 
-<img src="readme_res/Snap9.png" width="400"/> <img src="readme_res/Snap10.png" width="400"/> 
+<img src="screenshots/ProfileScreen.png" width="200" height="400"/> 
 </details>
+
+ ## Project Partners/Contributors
+   - [Farhan AbdulQadir](https://github.com/Vegeterian)
+   - [AbdulJawad Mohammed](https://github.com/abbaddon1001)
